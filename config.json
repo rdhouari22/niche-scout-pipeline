@@ -1,0 +1,36 @@
+{
+  "google_trends": {
+    "geo_list": ["US", "AU"],
+    "timeframe": "today 3-m",
+    "keywords": [
+      "kids cartoon AI",
+      "100000 whys kids",
+      "street smart kids",
+      "kids education video",
+      "toddler learning video",
+      "bedtime story kids",
+      "kids activity book",
+      "kids coloring book"
+    ]
+  },
+  "pinterest_trends": {
+    "keywords": [
+      "kids activity book",
+      "coloring book ideas",
+      "kids learning printable",
+      "toddler busy book",
+      "kids STEM activities"
+    ]
+  },
+  "tiktok_creative_center": {
+    "country_codes": ["US", "AU"],
+    "period_days": 7,
+    "category_hint": "family_and_parenting"
+  },
+  "amazon_movers_shakers": {
+    "categories": {
+      "childrens_books": "https://www.amazon.com/gp/movers-and-shakers/books/4",
+      "childrens_activity_books": "https://www.amazon.com/gp/movers-and-shakers/books"
+    }
+  }
+}
