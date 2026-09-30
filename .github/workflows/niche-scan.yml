@@ -5,6 +5,9 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -21,10 +24,10 @@ jobs:
       - name: Run niche scan
         run: python niche_scan.py
 
-      - name: Commit results
+      - name: Commit and push data
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "niche-scout-bot"
+          git config user.email "niche-scout-bot@users.noreply.github.com"
           git add data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Daily niche scan $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Niche scan $(date -u +%Y-%m-%d)"
           git push
