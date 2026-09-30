@@ -1,0 +1,253 @@
+{
+  "run_at": "2026-09-30T23:10:56.226617+00:00",
+  "sources": {
+    "google_trends": {
+      "source": "google_trends",
+      "fetched_at": "2026-09-30T23:10:56.226648+00:00",
+      "status": "ok",
+      "data": [
+        {
+          "geo": "US",
+          "keyword": "kids cartoon AI",
+          "latest_value": 6,
+          "avg_first_half": 0.0,
+          "avg_second_half": 1.8,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "100000 whys kids",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.1,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "street smart kids",
+          "latest_value": 5,
+          "avg_first_half": 0.0,
+          "avg_second_half": 3.2,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids education video",
+          "latest_value": 10,
+          "avg_first_half": 2.2,
+          "avg_second_half": 2.1,
+          "trend_direction": "flat"
+        },
+        {
+          "geo": "US",
+          "keyword": "toddler learning video",
+          "latest_value": 0,
+          "avg_first_half": 1.4,
+          "avg_second_half": 0.4,
+          "trend_direction": "falling"
+        },
+        {
+          "geo": "US",
+          "keyword": "toddler learning video",
+          "rising_related_queries": [
+            {
+              "query": "ms rachel toddler learning video",
+              "value": 80
+            }
+          ]
+        },
+        {
+          "geo": "US",
+          "keyword": "bedtime story kids",
+          "latest_value": 27,
+          "avg_first_half": 8.2,
+          "avg_second_half": 14.6,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids activity book",
+          "latest_value": 25,
+          "avg_first_half": 4.6,
+          "avg_second_half": 8.4,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids coloring book",
+          "latest_value": 46,
+          "avg_first_half": 7.5,
+          "avg_second_half": 36.5,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids activity book",
+          "rising_related_queries": [
+            {
+              "query": "tpt",
+              "value": 88700
+            }
+          ]
+        },
+        {
+          "geo": "US",
+          "keyword": "kids coloring book",
+          "rising_related_queries": [
+            {
+              "query": "higgsfield ai",
+              "value": 41350
+            },
+            {
+              "query": "halloween coloring pages",
+              "value": 19950
+            },
+            {
+              "query": "halloween coloring book",
+              "value": 450
+            },
+            {
+              "query": "product",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "geo": "AU",
+          "keyword": "kids cartoon AI",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
+        },
+        {
+          "geo": "AU",
+          "keyword": "100000 whys kids",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
+        },
+        {
+          "geo": "AU",
+          "keyword": "street smart kids",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 2.1,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "AU",
+          "keyword": "kids education video",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
+        },
+        {
+          "geo": "AU",
+          "keyword": "toddler learning video",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
+        },
+        {
+          "geo": "AU",
+          "keyword": "toddler learning video",
+          "rising_related_queries": [
+            {
+              "query": "ms rachel toddler learning video",
+              "value": 9999900
+            }
+          ]
+        },
+        {
+          "geo": "AU",
+          "keyword": "bedtime story kids",
+          "latest_value": 5,
+          "avg_first_half": 0.0,
+          "avg_second_half": 3.3,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "AU",
+          "keyword": "kids activity book",
+          "latest_value": 9,
+          "avg_first_half": 0.0,
+          "avg_second_half": 2.3,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "AU",
+          "keyword": "kids coloring book",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
+        }
+      ]
+    },
+    "tiktok_creative_center": {
+      "source": "tiktok_creative_center",
+      "fetched_at": "2026-09-30T23:11:13.420533+00:00",
+      "status": "ok",
+      "data": []
+    },
+    "pinterest_trends": {
+      "source": "pinterest_trends",
+      "fetched_at": "2026-09-30T23:11:14.067422+00:00",
+      "status": "error",
+      "data": [],
+      "partial_errors": [
+        {
+          "keyword": "kids activity book",
+          "http_status": 404,
+          "body_snippet": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" id=\"viewport\" name=\"viewport\"/><title>Pinterest - 404</title></head><body><div data-gestalt-valid-html=\"Box\"><style>html {\n  background: #f7f5f5;\n  box-sizing: border-box;\n}\n\n*, *:before, *:after {\n  box-sizing: inherit;\n}\n\nbody {\n  font-size: 24px;\n  color: #767676;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans,\n  Ubuntu, Cantarell, \"Fira Sans\", \"Dr"
+        },
+        {
+          "keyword": "coloring book ideas",
+          "http_status": 404,
+          "body_snippet": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" id=\"viewport\" name=\"viewport\"/><title>Pinterest - 404</title></head><body><div data-gestalt-valid-html=\"Box\"><style>html {\n  background: #f7f5f5;\n  box-sizing: border-box;\n}\n\n*, *:before, *:after {\n  box-sizing: inherit;\n}\n\nbody {\n  font-size: 24px;\n  color: #767676;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans,\n  Ubuntu, Cantarell, \"Fira Sans\", \"Dr"
+        },
+        {
+          "keyword": "kids learning printable",
+          "http_status": 404,
+          "body_snippet": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" id=\"viewport\" name=\"viewport\"/><title>Pinterest - 404</title></head><body><div data-gestalt-valid-html=\"Box\"><style>html {\n  background: #f7f5f5;\n  box-sizing: border-box;\n}\n\n*, *:before, *:after {\n  box-sizing: inherit;\n}\n\nbody {\n  font-size: 24px;\n  color: #767676;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans,\n  Ubuntu, Cantarell, \"Fira Sans\", \"Dr"
+        },
+        {
+          "keyword": "toddler busy book",
+          "http_status": 404,
+          "body_snippet": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" id=\"viewport\" name=\"viewport\"/><title>Pinterest - 404</title></head><body><div data-gestalt-valid-html=\"Box\"><style>html {\n  background: #f7f5f5;\n  box-sizing: border-box;\n}\n\n*, *:before, *:after {\n  box-sizing: inherit;\n}\n\nbody {\n  font-size: 24px;\n  color: #767676;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans,\n  Ubuntu, Cantarell, \"Fira Sans\", \"Dr"
+        },
+        {
+          "keyword": "kids STEM activities",
+          "http_status": 404,
+          "body_snippet": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" id=\"viewport\" name=\"viewport\"/><title>Pinterest - 404</title></head><body><div data-gestalt-valid-html=\"Box\"><style>html {\n  background: #f7f5f5;\n  box-sizing: border-box;\n}\n\n*, *:before, *:after {\n  box-sizing: inherit;\n}\n\nbody {\n  font-size: 24px;\n  color: #767676;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans,\n  Ubuntu, Cantarell, \"Fira Sans\", \"Dr"
+        }
+      ],
+      "error": "Pinterest Trends endpoint guess did not work for any keyword. This is an undocumented API endpoint (a best-effort guess, not confirmed) \u2014 check partial_errors for the real response and fix the URL/params from that, or swap this for a Claude-in-Chrome manual check if it never works."
+    },
+    "amazon_movers_shakers": {
+      "source": "amazon_movers_shakers",
+      "fetched_at": "2026-09-30T23:11:14.942721+00:00",
+      "status": "error",
+      "data": [],
+      "partial_errors": [
+        {
+          "category": "childrens_books",
+          "http_status": 200,
+          "note": "page loaded but no items matched known selectors \u2014 Amazon likely changed markup or served a block/captcha page",
+          "body_snippet": "<!doctype html><html lang=\"en-us\" class=\"a-no-js\" data-19ax5a9jf=\"dingo\"><!-- sp:feature:head-start -->\n<head><script>var aPageStart = (new Date()).getTime();</script><meta charset=\"utf-8\"/>\n<!-- sp:end-feature:head-start -->\n<!-- sp:feature:csm:head-open-part1 -->\n\n<script type='text/javascript'>var ue_t0=ue_t0||+new Date();</script>\n<!-- sp:end-feature:csm:head-open-part1 -->\n<!-- sp:feature:cs-optimization -->\n<meta http-equiv='x-dns-prefetch-control' content='on'>\n<link rel=\"preconnect\" href"
+        },
+        {
+          "category": "childrens_activity_books",
+          "http_status": 200,
+          "note": "page loaded but no items matched known selectors \u2014 Amazon likely changed markup or served a block/captcha page",
+          "body_snippet": "<!doctype html><html lang=\"en-us\" class=\"a-no-js\" data-19ax5a9jf=\"dingo\"><!-- sp:feature:head-start -->\n<head><script>var aPageStart = (new Date()).getTime();</script><meta charset=\"utf-8\"/>\n<!-- sp:end-feature:head-start -->\n<!-- sp:feature:csm:head-open-part1 -->\n\n<script type='text/javascript'>var ue_t0=ue_t0||+new Date();</script>\n<!-- sp:end-feature:csm:head-open-part1 -->\n<!-- sp:feature:cs-optimization -->\n<meta http-equiv='x-dns-prefetch-control' content='on'>\n<link rel=\"preconnect\" href"
+        }
+      ],
+      "error": "Amazon scrape returned nothing usable for any category. Amazon actively blocks scraping from datacenter IPs (which GitHub Actions runners are) \u2014 this is the most likely source to fail here. If it consistently fails, drop it from the automated pipeline and have Nova check Movers & Shakers live via Claude in Chrome instead when asked, rather than fighting Amazon's bot detection for free."
+    }
+  }
+}
