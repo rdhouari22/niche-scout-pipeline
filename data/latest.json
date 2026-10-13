@@ -1,184 +1,64 @@
 {
-  "run_at": "2026-10-12T14:06:56.349983+00:00",
+  "run_at": "2026-10-13T13:19:22.925417+00:00",
   "sources": {
     "google_trends": {
       "source": "google_trends",
-      "fetched_at": "2026-10-12T14:06:56.350032+00:00",
-      "status": "ok",
-      "data": [
+      "fetched_at": "2026-10-13T13:19:22.925450+00:00",
+      "status": "error",
+      "data": [],
+      "partial_errors": [
         {
           "geo": "US",
-          "keyword": "kids cartoon AI",
-          "latest_value": 16,
-          "avg_first_half": 2.0,
-          "avg_second_half": 3.7,
-          "trend_direction": "rising"
+          "batch": [
+            "kids cartoon AI",
+            "100000 whys kids",
+            "street smart kids",
+            "kids education video",
+            "toddler learning video"
+          ],
+          "error": "The request failed: Google returned a response with code 429"
         },
         {
           "geo": "US",
-          "keyword": "100000 whys kids",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
-        },
-        {
-          "geo": "US",
-          "keyword": "street smart kids",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 2.6,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "US",
-          "keyword": "kids education video",
-          "latest_value": 0,
-          "avg_first_half": 2.2,
-          "avg_second_half": 2.5,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "US",
-          "keyword": "toddler learning video",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.9,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "US",
-          "keyword": "toddler learning video",
-          "rising_related_queries": [
-            {
-              "query": "ms rachel toddler learning video",
-              "value": 150
-            }
-          ]
-        },
-        {
-          "geo": "US",
-          "keyword": "bedtime story kids",
-          "latest_value": 65,
-          "avg_first_half": 8.1,
-          "avg_second_half": 10.9,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "US",
-          "keyword": "kids activity book",
-          "latest_value": 29,
-          "avg_first_half": 0.0,
-          "avg_second_half": 12.0,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "US",
-          "keyword": "kids coloring book",
-          "latest_value": 70,
-          "avg_first_half": 18.3,
-          "avg_second_half": 37.6,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "US",
-          "keyword": "kids coloring book",
-          "rising_related_queries": [
-            {
-              "query": "halloween coloring book",
-              "value": 200
-            },
-            {
-              "query": "kdp amazon",
-              "value": 60
-            }
-          ]
+          "batch": [
+            "bedtime story kids",
+            "kids activity book",
+            "kids coloring book"
+          ],
+          "error": "The request failed: Google returned a response with code 429"
         },
         {
           "geo": "AU",
-          "keyword": "kids cartoon AI",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
+          "batch": [
+            "kids cartoon AI",
+            "100000 whys kids",
+            "street smart kids",
+            "kids education video",
+            "toddler learning video"
+          ],
+          "error": "The request failed: Google returned a response with code 429"
         },
         {
           "geo": "AU",
-          "keyword": "100000 whys kids",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
-        },
-        {
-          "geo": "AU",
-          "keyword": "street smart kids",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
-        },
-        {
-          "geo": "AU",
-          "keyword": "kids education video",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "AU",
-          "keyword": "toddler learning video",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
-        },
-        {
-          "geo": "AU",
-          "keyword": "bedtime story kids",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 16.1,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "AU",
-          "keyword": "kids activity book",
-          "latest_value": 100,
-          "avg_first_half": 0.0,
-          "avg_second_half": 22.6,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "AU",
-          "keyword": "kids coloring book",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 2.2,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "AU",
-          "keyword": "kids activity book",
-          "rising_related_queries": [
-            {
-              "query": "kids activity books",
-              "value": 70
-            }
-          ]
+          "batch": [
+            "bedtime story kids",
+            "kids activity book",
+            "kids coloring book"
+          ],
+          "error": "The request failed: Google returned a response with code 429"
         }
-      ]
+      ],
+      "error": "all batches failed, see partial_errors"
     },
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
-      "fetched_at": "2026-10-12T14:07:17.313949+00:00",
+      "fetched_at": "2026-10-13T13:20:34.836946+00:00",
       "status": "ok",
       "data": []
     },
     "pinterest_trends": {
       "source": "pinterest_trends",
-      "fetched_at": "2026-10-12T14:07:20.043682+00:00",
+      "fetched_at": "2026-10-13T13:20:35.361687+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -212,7 +92,7 @@
     },
     "amazon_movers_shakers": {
       "source": "amazon_movers_shakers",
-      "fetched_at": "2026-10-12T14:07:20.706980+00:00",
+      "fetched_at": "2026-10-13T13:20:36.995356+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
