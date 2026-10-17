@@ -1,17 +1,17 @@
 {
-  "run_at": "2026-10-16T10:28:04.898619+00:00",
+  "run_at": "2026-10-17T09:59:11.174889+00:00",
   "sources": {
     "google_trends": {
       "source": "google_trends",
-      "fetched_at": "2026-10-16T10:28:04.898646+00:00",
+      "fetched_at": "2026-10-17T09:59:11.174921+00:00",
       "status": "ok",
       "data": [
         {
           "geo": "US",
           "keyword": "kids cartoon AI",
-          "latest_value": 11,
+          "latest_value": 13,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.6,
+          "avg_second_half": 3.0,
           "trend_direction": "rising"
         },
         {
@@ -19,32 +19,32 @@
           "keyword": "100000 whys kids",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.1,
+          "avg_second_half": 0.2,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "street smart kids",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 2.0,
-          "trend_direction": "rising"
+          "avg_first_half": 2.2,
+          "avg_second_half": 2.1,
+          "trend_direction": "flat"
         },
         {
           "geo": "US",
           "keyword": "kids education video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
+          "avg_second_half": 2.6,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "toddler learning video",
-          "latest_value": 0,
-          "avg_first_half": 2.2,
-          "avg_second_half": 2.3,
-          "trend_direction": "flat"
+          "latest_value": 16,
+          "avg_first_half": 0.0,
+          "avg_second_half": 1.1,
+          "trend_direction": "rising"
         },
         {
           "geo": "US",
@@ -52,33 +52,57 @@
           "rising_related_queries": [
             {
               "query": "ms rachel toddler learning video",
-              "value": 250
+              "value": 130
             }
           ]
         },
         {
           "geo": "US",
           "keyword": "bedtime story kids",
-          "latest_value": 73,
-          "avg_first_half": 4.5,
-          "avg_second_half": 17.8,
+          "latest_value": 55,
+          "avg_first_half": 5.6,
+          "avg_second_half": 10.2,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids activity book",
           "latest_value": 18,
-          "avg_first_half": 0.0,
-          "avg_second_half": 10.6,
+          "avg_first_half": 2.7,
+          "avg_second_half": 11.9,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids coloring book",
-          "latest_value": 48,
-          "avg_first_half": 11.9,
-          "avg_second_half": 40.1,
+          "latest_value": 46,
+          "avg_first_half": 11.1,
+          "avg_second_half": 39.0,
           "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids activity book",
+          "rising_related_queries": [
+            {
+              "query": "activity books for kids",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "geo": "US",
+          "keyword": "kids coloring book",
+          "rising_related_queries": [
+            {
+              "query": "halloween coloring book",
+              "value": 400
+            },
+            {
+              "query": "amazon kids coloring books",
+              "value": 120
+            }
+          ]
         },
         {
           "geo": "AU",
@@ -101,16 +125,16 @@
           "keyword": "street smart kids",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 1.1,
+          "avg_second_half": 0.1,
           "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "kids education video",
           "latest_value": 0,
-          "avg_first_half": 2.2,
-          "avg_second_half": 0.0,
-          "trend_direction": "falling"
+          "avg_first_half": 0.0,
+          "avg_second_half": 2.1,
+          "trend_direction": "rising"
         },
         {
           "geo": "AU",
@@ -124,16 +148,16 @@
           "geo": "AU",
           "keyword": "bedtime story kids",
           "latest_value": 0,
-          "avg_first_half": 1.9,
-          "avg_second_half": 3.8,
-          "trend_direction": "rising"
+          "avg_first_half": 2.2,
+          "avg_second_half": 2.2,
+          "trend_direction": "flat"
         },
         {
           "geo": "AU",
           "keyword": "kids activity book",
-          "latest_value": 7,
+          "latest_value": 9,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.5,
+          "avg_second_half": 3.0,
           "trend_direction": "rising"
         },
         {
@@ -141,20 +165,30 @@
           "keyword": "kids coloring book",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
+          "avg_second_half": 0.6,
           "trend_direction": "rising"
+        },
+        {
+          "geo": "AU",
+          "keyword": "kids activity book",
+          "rising_related_queries": [
+            {
+              "query": "kids activity books",
+              "value": 50
+            }
+          ]
         }
       ]
     },
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
-      "fetched_at": "2026-10-16T10:28:22.143565+00:00",
+      "fetched_at": "2026-10-17T09:59:28.089174+00:00",
       "status": "ok",
       "data": []
     },
     "pinterest_trends": {
       "source": "pinterest_trends",
-      "fetched_at": "2026-10-16T10:28:22.905691+00:00",
+      "fetched_at": "2026-10-17T09:59:29.710703+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -188,7 +222,7 @@
     },
     "amazon_movers_shakers": {
       "source": "amazon_movers_shakers",
-      "fetched_at": "2026-10-16T10:28:23.818135+00:00",
+      "fetched_at": "2026-10-17T09:59:30.840962+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
