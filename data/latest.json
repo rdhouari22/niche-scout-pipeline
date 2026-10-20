@@ -1,41 +1,41 @@
 {
-  "run_at": "2026-10-19T11:47:30.809080+00:00",
+  "run_at": "2026-10-20T10:47:04.892162+00:00",
   "sources": {
     "google_trends": {
       "source": "google_trends",
-      "fetched_at": "2026-10-19T11:47:30.809112+00:00",
+      "fetched_at": "2026-10-20T10:47:04.892198+00:00",
       "status": "ok",
       "data": [
         {
           "geo": "US",
           "keyword": "kids cartoon AI",
           "latest_value": 0,
-          "avg_first_half": 3.2,
-          "avg_second_half": 2.0,
-          "trend_direction": "falling"
+          "avg_first_half": 0.0,
+          "avg_second_half": 3.4,
+          "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "100000 whys kids",
           "latest_value": 0,
-          "avg_first_half": 2.2,
-          "avg_second_half": 0.0,
-          "trend_direction": "falling"
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.1,
+          "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "street smart kids",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 2.0,
+          "avg_first_half": 2.2,
+          "avg_second_half": 3.0,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids education video",
-          "latest_value": 15,
-          "avg_first_half": 1.3,
-          "avg_second_half": 2.3,
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 3.0,
           "trend_direction": "rising"
         },
         {
@@ -52,40 +52,44 @@
           "rising_related_queries": [
             {
               "query": "ms rachel toddler learning video",
-              "value": 200
+              "value": 110
             }
           ]
         },
         {
           "geo": "US",
           "keyword": "bedtime story kids",
-          "latest_value": 80,
-          "avg_first_half": 5.5,
-          "avg_second_half": 14.9,
+          "latest_value": 67,
+          "avg_first_half": 2.3,
+          "avg_second_half": 9.6,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids activity book",
-          "latest_value": 27,
-          "avg_first_half": 4.3,
-          "avg_second_half": 8.7,
+          "latest_value": 18,
+          "avg_first_half": 1.1,
+          "avg_second_half": 11.7,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids coloring book",
-          "latest_value": 44,
-          "avg_first_half": 8.8,
-          "avg_second_half": 33.0,
+          "latest_value": 39,
+          "avg_first_half": 9.1,
+          "avg_second_half": 32.9,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
-          "keyword": "kids activity book",
+          "keyword": "kids coloring book",
           "rising_related_queries": [
             {
-              "query": "activity books for kids",
+              "query": "halloween coloring book",
+              "value": 300
+            },
+            {
+              "query": "coloring books for kids",
               "value": 40
             }
           ]
@@ -119,40 +123,40 @@
           "keyword": "kids education video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
+          "avg_second_half": 2.1,
+          "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "toddler learning video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
-          "trend_direction": "rising"
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
         },
         {
           "geo": "AU",
           "keyword": "bedtime story kids",
-          "latest_value": 0,
-          "avg_first_half": 2.2,
-          "avg_second_half": 1.1,
+          "latest_value": 7,
+          "avg_first_half": 3.1,
+          "avg_second_half": 1.8,
           "trend_direction": "falling"
         },
         {
           "geo": "AU",
           "keyword": "kids activity book",
-          "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 1.8,
-          "trend_direction": "rising"
+          "latest_value": 7,
+          "avg_first_half": 3.7,
+          "avg_second_half": 2.1,
+          "trend_direction": "falling"
         },
         {
           "geo": "AU",
           "keyword": "kids coloring book",
-          "latest_value": 4,
+          "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.3,
-          "trend_direction": "rising"
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
         },
         {
           "geo": "AU",
@@ -160,7 +164,7 @@
           "rising_related_queries": [
             {
               "query": "kids activity books",
-              "value": 40
+              "value": 80
             }
           ]
         }
@@ -168,13 +172,13 @@
     },
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
-      "fetched_at": "2026-10-19T11:47:47.509405+00:00",
+      "fetched_at": "2026-10-20T10:47:18.889741+00:00",
       "status": "ok",
       "data": []
     },
     "pinterest_trends": {
       "source": "pinterest_trends",
-      "fetched_at": "2026-10-19T11:47:49.420079+00:00",
+      "fetched_at": "2026-10-20T10:47:20.307614+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -208,7 +212,7 @@
     },
     "amazon_movers_shakers": {
       "source": "amazon_movers_shakers",
-      "fetched_at": "2026-10-19T11:47:50.231870+00:00",
+      "fetched_at": "2026-10-20T10:47:20.557449+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
