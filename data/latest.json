@@ -1,87 +1,73 @@
 {
-  "run_at": "2026-11-02T14:27:59.628491+00:00",
+  "run_at": "2026-11-03T13:25:46.322770+00:00",
   "sources": {
     "google_trends": {
       "source": "google_trends",
-      "fetched_at": "2026-11-02T14:27:59.628537+00:00",
+      "fetched_at": "2026-11-03T13:25:46.322807+00:00",
       "status": "ok",
       "data": [
         {
           "geo": "US",
           "keyword": "kids cartoon AI",
-          "latest_value": 20,
+          "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 3.6,
+          "avg_second_half": 4.6,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "100000 whys kids",
-          "latest_value": 0,
+          "latest_value": 11,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.6,
+          "avg_second_half": 0.8,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "street smart kids",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 1.6,
-          "trend_direction": "rising"
+          "avg_first_half": 2.1,
+          "avg_second_half": 0.9,
+          "trend_direction": "falling"
         },
         {
           "geo": "US",
           "keyword": "kids education video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 3.0,
+          "avg_second_half": 2.2,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "toddler learning video",
           "latest_value": 0,
-          "avg_first_half": 2.1,
-          "avg_second_half": 0.6,
+          "avg_first_half": 1.7,
+          "avg_second_half": 0.5,
           "trend_direction": "falling"
         },
         {
           "geo": "US",
-          "keyword": "toddler learning video",
-          "rising_related_queries": [
-            {
-              "query": "ms rachel toddler learning video",
-              "value": 140
-            },
-            {
-              "query": "toddler learning videos",
-              "value": 90
-            }
-          ]
-        },
-        {
-          "geo": "US",
           "keyword": "bedtime story kids",
-          "latest_value": 45,
-          "avg_first_half": 8.1,
-          "avg_second_half": 10.0,
+          "latest_value": 47,
+          "avg_first_half": 3.1,
+          "avg_second_half": 10.7,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids activity book",
-          "latest_value": 21,
-          "avg_first_half": 2.5,
-          "avg_second_half": 12.2,
+          "latest_value": 25,
+          "avg_first_half": 1.2,
+          "avg_second_half": 9.3,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids coloring book",
-          "latest_value": 55,
-          "avg_first_half": 20.5,
-          "avg_second_half": 42.3,
+          "latest_value": 42,
+          "avg_first_half": 14.1,
+          "avg_second_half": 33.1,
           "trend_direction": "rising"
         },
         {
@@ -90,7 +76,21 @@
           "rising_related_queries": [
             {
               "query": "kids activity books",
-              "value": 50
+              "value": 40
+            }
+          ]
+        },
+        {
+          "geo": "US",
+          "keyword": "kids coloring book",
+          "rising_related_queries": [
+            {
+              "query": "halloween coloring book",
+              "value": 350
+            },
+            {
+              "query": "amazon kdp",
+              "value": 80
             }
           ]
         },
@@ -106,25 +106,25 @@
           "geo": "AU",
           "keyword": "100000 whys kids",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
+          "avg_first_half": 2.2,
+          "avg_second_half": 2.0,
           "trend_direction": "flat"
         },
         {
           "geo": "AU",
           "keyword": "street smart kids",
           "latest_value": 0,
-          "avg_first_half": 3.9,
-          "avg_second_half": 0.0,
-          "trend_direction": "falling"
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.1,
+          "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "kids education video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
+          "avg_second_half": 1.9,
+          "trend_direction": "rising"
         },
         {
           "geo": "AU",
@@ -137,38 +137,38 @@
         {
           "geo": "AU",
           "keyword": "bedtime story kids",
-          "latest_value": 8,
+          "latest_value": 45,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
+          "avg_second_half": 14.0,
           "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "kids activity book",
-          "latest_value": 0,
+          "latest_value": 77,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.3,
+          "avg_second_half": 18.4,
           "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "kids coloring book",
           "latest_value": 0,
-          "avg_first_half": 2.2,
-          "avg_second_half": 0.0,
-          "trend_direction": "falling"
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.7,
+          "trend_direction": "rising"
         }
       ]
     },
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
-      "fetched_at": "2026-11-02T14:28:17.135011+00:00",
+      "fetched_at": "2026-11-03T13:26:06.227634+00:00",
       "status": "ok",
       "data": []
     },
     "pinterest_trends": {
       "source": "pinterest_trends",
-      "fetched_at": "2026-11-02T14:28:17.975190+00:00",
+      "fetched_at": "2026-11-03T13:26:06.855562+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -202,7 +202,7 @@
     },
     "amazon_movers_shakers": {
       "source": "amazon_movers_shakers",
-      "fetched_at": "2026-11-02T14:28:18.805601+00:00",
+      "fetched_at": "2026-11-03T13:26:07.766806+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
