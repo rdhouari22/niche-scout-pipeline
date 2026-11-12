@@ -1,41 +1,41 @@
 {
-  "run_at": "2026-11-11T13:22:45.023436+00:00",
+  "run_at": "2026-11-12T14:27:42.218011+00:00",
   "sources": {
     "google_trends": {
       "source": "google_trends",
-      "fetched_at": "2026-11-11T13:22:45.023470+00:00",
+      "fetched_at": "2026-11-12T14:27:42.218070+00:00",
       "status": "ok",
       "data": [
         {
           "geo": "US",
           "keyword": "kids cartoon AI",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.6,
-          "trend_direction": "rising"
+          "avg_first_half": 2.2,
+          "avg_second_half": 1.9,
+          "trend_direction": "flat"
         },
         {
           "geo": "US",
           "keyword": "100000 whys kids",
-          "latest_value": 3,
-          "avg_first_half": 2.2,
-          "avg_second_half": 0.3,
-          "trend_direction": "falling"
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 1.0,
+          "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "street smart kids",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.3,
-          "trend_direction": "rising"
+          "avg_first_half": 2.1,
+          "avg_second_half": 2.4,
+          "trend_direction": "flat"
         },
         {
           "geo": "US",
           "keyword": "kids education video",
-          "latest_value": 3,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.7,
+          "latest_value": 0,
+          "avg_first_half": 3.0,
+          "avg_second_half": 5.0,
           "trend_direction": "rising"
         },
         {
@@ -43,41 +43,31 @@
           "keyword": "toddler learning video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.1,
+          "avg_second_half": 2.0,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
-          "keyword": "toddler learning video",
-          "rising_related_queries": [
-            {
-              "query": "ms rachel toddler learning video",
-              "value": 50
-            }
-          ]
-        },
-        {
-          "geo": "US",
           "keyword": "bedtime story kids",
-          "latest_value": 27,
-          "avg_first_half": 2.6,
-          "avg_second_half": 8.3,
+          "latest_value": 47,
+          "avg_first_half": 0.0,
+          "avg_second_half": 8.6,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids activity book",
-          "latest_value": 8,
-          "avg_first_half": 1.6,
-          "avg_second_half": 7.9,
+          "latest_value": 24,
+          "avg_first_half": 1.7,
+          "avg_second_half": 8.9,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids coloring book",
-          "latest_value": 29,
-          "avg_first_half": 11.1,
-          "avg_second_half": 24.0,
+          "latest_value": 43,
+          "avg_first_half": 11.9,
+          "avg_second_half": 34.0,
           "trend_direction": "rising"
         },
         {
@@ -86,11 +76,11 @@
           "rising_related_queries": [
             {
               "query": "activity books for kids",
-              "value": 60
+              "value": 70
             },
             {
               "query": "kids activity books",
-              "value": 40
+              "value": 60
             }
           ]
         },
@@ -99,12 +89,12 @@
           "keyword": "kids coloring book",
           "rising_related_queries": [
             {
-              "query": "kdp amazon",
-              "value": 120
+              "query": "halloween coloring book",
+              "value": 1550
             },
             {
               "query": "christmas coloring book",
-              "value": 60
+              "value": 200
             }
           ]
         },
@@ -113,8 +103,8 @@
           "keyword": "kids cartoon AI",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.1,
-          "trend_direction": "rising"
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
         },
         {
           "geo": "AU",
@@ -122,15 +112,15 @@
           "latest_value": 0,
           "avg_first_half": 0.0,
           "avg_second_half": 0.0,
-          "trend_direction": "flat"
+          "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "street smart kids",
           "latest_value": 0,
-          "avg_first_half": 0.0,
-          "avg_second_half": 0.2,
-          "trend_direction": "rising"
+          "avg_first_half": 2.7,
+          "avg_second_half": 0.0,
+          "trend_direction": "falling"
         },
         {
           "geo": "AU",
@@ -145,23 +135,23 @@
           "keyword": "toddler learning video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
-          "trend_direction": "rising"
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
         },
         {
           "geo": "AU",
           "keyword": "bedtime story kids",
-          "latest_value": 8,
+          "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 2.1,
+          "avg_second_half": 13.7,
           "trend_direction": "rising"
         },
         {
           "geo": "AU",
           "keyword": "kids activity book",
-          "latest_value": 14,
+          "latest_value": 71,
           "avg_first_half": 0.0,
-          "avg_second_half": 5.7,
+          "avg_second_half": 21.4,
           "trend_direction": "rising"
         },
         {
@@ -169,20 +159,20 @@
           "keyword": "kids coloring book",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
+          "avg_second_half": 2.6,
+          "trend_direction": "rising"
         }
       ]
     },
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
-      "fetched_at": "2026-11-11T13:23:02.422273+00:00",
+      "fetched_at": "2026-11-12T14:27:56.289107+00:00",
       "status": "ok",
       "data": []
     },
     "pinterest_trends": {
       "source": "pinterest_trends",
-      "fetched_at": "2026-11-11T13:23:02.886369+00:00",
+      "fetched_at": "2026-11-12T14:27:57.062229+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -216,7 +206,7 @@
     },
     "amazon_movers_shakers": {
       "source": "amazon_movers_shakers",
-      "fetched_at": "2026-11-11T13:23:04.686458+00:00",
+      "fetched_at": "2026-11-12T14:27:57.648215+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
