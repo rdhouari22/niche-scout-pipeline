@@ -1,34 +1,104 @@
 {
-  "run_at": "2026-11-25T16:37:34.347334+00:00",
+  "run_at": "2026-11-26T16:10:18.948387+00:00",
   "sources": {
     "google_trends": {
       "source": "google_trends",
-      "fetched_at": "2026-11-25T16:37:34.347380+00:00",
+      "fetched_at": "2026-11-26T16:10:18.948423+00:00",
       "status": "ok",
       "data": [
         {
           "geo": "US",
+          "keyword": "kids cartoon AI",
+          "latest_value": 0,
+          "avg_first_half": 2.2,
+          "avg_second_half": 2.4,
+          "trend_direction": "flat"
+        },
+        {
+          "geo": "US",
+          "keyword": "100000 whys kids",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 1.9,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "street smart kids",
+          "latest_value": 12,
+          "avg_first_half": 0.0,
+          "avg_second_half": 4.6,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids education video",
+          "latest_value": 9,
+          "avg_first_half": 0.0,
+          "avg_second_half": 2.4,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "toddler learning video",
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.6,
+          "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "street smart kids",
+          "rising_related_queries": [
+            {
+              "query": "street smart kids book pdf",
+              "value": 51550
+            }
+          ]
+        },
+        {
+          "geo": "US",
           "keyword": "bedtime story kids",
-          "latest_value": 41,
-          "avg_first_half": 3.6,
-          "avg_second_half": 9.8,
+          "latest_value": 37,
+          "avg_first_half": 2.1,
+          "avg_second_half": 7.4,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids activity book",
-          "latest_value": 24,
-          "avg_first_half": 3.8,
-          "avg_second_half": 15.2,
+          "latest_value": 17,
+          "avg_first_half": 1.1,
+          "avg_second_half": 12.1,
           "trend_direction": "rising"
         },
         {
           "geo": "US",
           "keyword": "kids coloring book",
-          "latest_value": 55,
-          "avg_first_half": 19.3,
-          "avg_second_half": 38.6,
+          "latest_value": 46,
+          "avg_first_half": 22.2,
+          "avg_second_half": 37.2,
           "trend_direction": "rising"
+        },
+        {
+          "geo": "US",
+          "keyword": "kids activity book",
+          "rising_related_queries": [
+            {
+              "query": "product",
+              "value": 252800
+            }
+          ]
+        },
+        {
+          "geo": "US",
+          "keyword": "kids coloring book",
+          "rising_related_queries": [
+            {
+              "query": "christmas coloring book",
+              "value": 120
+            }
+          ]
         },
         {
           "geo": "AU",
@@ -41,17 +111,17 @@
         {
           "geo": "AU",
           "keyword": "100000 whys kids",
-          "latest_value": 8,
-          "avg_first_half": 2.2,
-          "avg_second_half": 0.2,
-          "trend_direction": "falling"
+          "latest_value": 0,
+          "avg_first_half": 0.0,
+          "avg_second_half": 0.0,
+          "trend_direction": "flat"
         },
         {
           "geo": "AU",
           "keyword": "street smart kids",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.3,
+          "avg_second_half": 2.1,
           "trend_direction": "rising"
         },
         {
@@ -67,43 +137,17 @@
           "keyword": "toddler learning video",
           "latest_value": 0,
           "avg_first_half": 0.0,
-          "avg_second_half": 0.0,
-          "trend_direction": "flat"
-        },
-        {
-          "geo": "AU",
-          "keyword": "bedtime story kids",
-          "latest_value": 6,
-          "avg_first_half": 0.0,
-          "avg_second_half": 5.8,
+          "avg_second_half": 0.8,
           "trend_direction": "rising"
-        },
-        {
-          "geo": "AU",
-          "keyword": "kids activity book",
-          "latest_value": 10,
-          "avg_first_half": 0.0,
-          "avg_second_half": 3.6,
-          "trend_direction": "rising"
-        },
-        {
-          "geo": "AU",
-          "keyword": "kids coloring book",
-          "latest_value": 0,
-          "avg_first_half": 2.0,
-          "avg_second_half": 0.5,
-          "trend_direction": "falling"
         }
       ],
       "partial_errors": [
         {
-          "geo": "US",
+          "geo": "AU",
           "batch": [
-            "kids cartoon AI",
-            "100000 whys kids",
-            "street smart kids",
-            "kids education video",
-            "toddler learning video"
+            "bedtime story kids",
+            "kids activity book",
+            "kids coloring book"
           ],
           "error": "The request failed: Google returned a response with code 429"
         }
@@ -111,13 +155,13 @@
     },
     "tiktok_creative_center": {
       "source": "tiktok_creative_center",
-      "fetched_at": "2026-11-25T16:38:20.519328+00:00",
+      "fetched_at": "2026-11-26T16:10:49.868179+00:00",
       "status": "ok",
       "data": []
     },
     "pinterest_trends": {
       "source": "pinterest_trends",
-      "fetched_at": "2026-11-25T16:38:21.211938+00:00",
+      "fetched_at": "2026-11-26T16:10:51.202264+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -151,7 +195,7 @@
     },
     "amazon_movers_shakers": {
       "source": "amazon_movers_shakers",
-      "fetched_at": "2026-11-25T16:38:21.950083+00:00",
+      "fetched_at": "2026-11-26T16:10:51.501203+00:00",
       "status": "error",
       "data": [],
       "partial_errors": [
@@ -165,7 +209,7 @@
           "category": "childrens_activity_books",
           "http_status": 200,
           "note": "page loaded but no items matched known selectors \u2014 Amazon likely changed markup or served a block/captcha page",
-          "body_snippet": "<!doctype html><html lang=\"en-us\" class=\"a-no-js\" data-19ax5a9jf=\"dingo\"><!-- sp:feature:head-start -->\n<head><script>var aPageStart = (new Date()).getTime();</script><meta charset=\"utf-8\"/>\n<!-- sp:end-feature:head-start -->\n<!-- sp:feature:csm:head-open-part1 -->\n\n<script type='text/javascript'>var ue_t0=ue_t0||+new Date();</script>\n<!-- sp:end-feature:csm:head-open-part1 -->\n<!-- sp:feature:cs-optimization -->\n<meta http-equiv='x-dns-prefetch-control' content='on'>\n<link rel=\"preconnect\" href"
+          "body_snippet": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html lang=\"en-us\" class=\"a-no-js a-lt-ie9 a-lt-ie8 a-lt-ie7\"> <![endif]-->\n<!--[if IE 7]>    <html lang=\"en-us\" class=\"a-no-js a-lt-ie9 a-lt-ie8\"> <![endif]-->\n<!--[if IE 8]>    <html lang=\"en-us\" class=\"a-no-js a-lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!-->\n<html class=\"a-no-js\" lang=\"en-us\"><!--<![endif]--><head>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrom"
         }
       ],
       "error": "Amazon scrape returned nothing usable for any category. Amazon actively blocks scraping from datacenter IPs (which GitHub Actions runners are) \u2014 this is the most likely source to fail here. If it consistently fails, drop it from the automated pipeline and have Nova check Movers & Shakers live via Claude in Chrome instead when asked, rather than fighting Amazon's bot detection for free."
